@@ -1,3 +1,5 @@
 # branching-test
 
 MAKING A HOTFIX
+
+MAKING A NORMAL FIX
